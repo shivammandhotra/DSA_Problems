@@ -43,7 +43,7 @@ if(hashMap.containsKey(str)){
 
 #### rather than defining this
 HashMap<String, String> hashMap = new HashMap<>(); 
-#### we will defing this
+#### we will be defining this
 HashMap<String,List<String>> hashMap = new HashMap<>
 
 #### Sorting of the String: str.sort(); -> 
