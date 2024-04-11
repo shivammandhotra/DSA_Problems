@@ -88,4 +88,5 @@ public int[] secondOptimized(int[] nums){
         return ans;
     }
 ```
-
+#### Space complexity : O(n)
+#### Time complexity: O(n)
