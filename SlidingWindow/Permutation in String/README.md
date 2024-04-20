@@ -24,7 +24,7 @@ Output: false
 
 #### In brute force we can calculate all the combinations of permutation and then find it in the 2nd string.
 
-## Solution 1
+## Solution 2
 
 #### Using Sliding window
 ```java
